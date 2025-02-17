@@ -3,12 +3,12 @@
     <channel>
         <title>EasyMind</title>
         <item>
-            <title>2.1</title>
-            <pubDate>Mon, 17 Feb 2025 19:51:42 +0200</pubDate>
+            <title>2.2</title>
+            <pubDate>Mon, 17 Feb 2025 21:02:06 +0200</pubDate>
             <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Terminator98/EasyMind/releases/download/prod/EasyMind.dmg" length="1690090" type="application/octet-stream" sparkle:edSignature="t65W8EJZuTWwQrBnUKR/AEf0rfD+3lSN4aRZ6BXxLRkV9+CM7QeI5sWDzHL32EtG5P7ynC6Em0xKF5KFTyuyBw=="/>
+            <enclosure url="https://Terminator98.github.io/EasyMind/EasyMind.dmg" length="1698961" type="application/octet-stream" sparkle:edSignature="AlwnxFpiNiie7TdTt0q0HkHwQ9+7joVDPbGlyE+xZFZGsIrLpI+Nhq0m75PYx8jG+3fRWxciXPqZFWKmf4GVDA=="/>
         </item>
     </channel>
 </rss>
