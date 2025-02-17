@@ -8,7 +8,7 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://terminator98.github.io/EasyMind/EasyMind.dmg" length="1690090" type="application/octet-stream" sparkle:edSignature="t65W8EJZuTWwQrBnUKR/AEf0rfD+3lSN4aRZ6BXxLRkV9+CM7QeI5sWDzHL32EtG5P7ynC6Em0xKF5KFTyuyBw=="/>
+            <enclosure url="https://github.com/Terminator98/EasyMind/releases/download/prod/EasyMind.dmg" length="1690090" type="application/octet-stream" sparkle:edSignature="t65W8EJZuTWwQrBnUKR/AEf0rfD+3lSN4aRZ6BXxLRkV9+CM7QeI5sWDzHL32EtG5P7ynC6Em0xKF5KFTyuyBw=="/>
         </item>
     </channel>
 </rss>
