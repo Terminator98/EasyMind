@@ -4,6 +4,14 @@
         <title>EasyMind</title>
         <item>
             <title>2.5</title>
+            <pubDate>Wed, 19 Feb 2025 14:56:38 +0200</pubDate>
+            <sparkle:version>16A</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://terminator98.github.io/EasyMind/EasyMind.dmg" length="1695785" type="application/octet-stream" sparkle:edSignature="xOX7DSBwbslxQfyD+BJqTtVzSj4DHfFkdlTvsLgvZidWFz4N7vjcd1K9iX7y/YY8z+0+yOQj91oiwB8pwKeXDA=="/>
+        </item>
+        <item>
+            <title>2.5</title>
             <pubDate>Wed, 19 Feb 2025 14:20:55 +0200</pubDate>
             <sparkle:version>15A</sparkle:version>
             <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
