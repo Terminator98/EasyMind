@@ -4,11 +4,27 @@
         <title>EasyMind</title>
         <item>
             <title>2.5</title>
+            <pubDate>Sun, 23 Feb 2025 14:20:29 +0200</pubDate>
+            <sparkle:version>17A</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Terminator98/EasyMind/releases/download/v2.5.17A/EasyMind.dmg" length="1695989" type="application/octet-stream" sparkle:edSignature="ov25SC9nE4hAdsuVl8zgQJOaJK6b0x9sAEb5Sam1gIEWs7Gh2vZJKiIWsjydMDmH0fdTzlulam9cA2sqxtibCA=="/>
+            <description><![CDATA[
+                    <h2>What's New in Version 2.5.17A</h2>
+                    <ul>
+                      <li>Added new feature X</li>
+                      <li>Fixed bug Y</li>
+                      <li>Improved performance</li>
+                    </ul>
+                  ]]></description>
+        </item>
+        <item>
+            <title>2.5</title>
             <pubDate>Wed, 19 Feb 2025 14:56:38 +0200</pubDate>
             <sparkle:version>16A</sparkle:version>
             <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Terminator98/EasyMind/releases/download/v2.5.16A/EasyMind.dmg" length="1695785" type="application/octet-stream" sparkle:edSignature="xOX7DSBwbslxQfyD+BJqTtVzSj4DHfFkdlTvsLgvZidWFz4N7vjcd1K9iX7y/YY8z+0+yOQj91oiwB8pwKeXDA=="/>
+            <enclosure url="https://terminator98.github.io/EasyMind/EasyMind.dmg" length="1695785" type="application/octet-stream" sparkle:edSignature="xOX7DSBwbslxQfyD+BJqTtVzSj4DHfFkdlTvsLgvZidWFz4N7vjcd1K9iX7y/YY8z+0+yOQj91oiwB8pwKeXDA=="/>
         </item>
         <item>
             <title>2.5</title>
@@ -17,14 +33,6 @@
             <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Terminator98/EasyMind/releases/download/v2.5.15A/EasyMind.dmg" length="1694878" type="application/octet-stream" sparkle:edSignature="hKROXWjQNBXVYv/iO8PDy2rWDRHd65OePL4jauvz/04iLQ1u4rEkEhSeJX7gWUZVf6MmxxtyaKI0NIycDZGFCw=="/>
-        </item>
-        <item>
-            <title>2.5</title>
-            <pubDate>Wed, 19 Feb 2025 14:07:29 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Terminator98/EasyMind/releases/download/v2.5/EasyMind.dmg" length="1695538" type="application/octet-stream" sparkle:edSignature="TL8ZcjPXsHYZRY2eAlwC+uDKSDYAjvrDtME/HFngElfkk0EfIYU7zbDb+s35GiR0ystCoJNMRI6RQS/9zfLKDg=="/>
         </item>
     </channel>
 </rss>
